@@ -1,1 +1,1 @@
-This is python tutorial beseed on python2.7.
+This is python tutorial besed on python2.7.
